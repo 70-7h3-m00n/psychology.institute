@@ -5,7 +5,7 @@ module.exports = {
     node: true,
   },
   extends: [
-    'standard-with-typescript',
+    'love',
     'plugin:react/recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:@typescript-eslint/recommended-requiring-type-checking',
