@@ -1,4 +1,4 @@
 #!/bin/sh
-. "$(dirname "$0")/_/h.sh"
+. "$(dirname "$0")/h.sh"
 
 npx lint-staged
