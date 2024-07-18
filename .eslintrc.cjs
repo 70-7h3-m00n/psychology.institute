@@ -43,5 +43,6 @@ module.exports = {
     '@typescript-eslint/comma-dangle': 'off',
     semi: 'off',
     '@typescript-eslint/semi': 'off',
+    quotes: ['error', 'single'],
   },
 };
